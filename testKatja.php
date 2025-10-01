@@ -11,11 +11,13 @@ $a = 292;
 $b = 22;
 echo $a + $b;
 
+echo '<br>';
+
 //-> funktionen
-function multiply(a, b)   {
-return a * b;
+function multiply($a, $b)   {
+return $a * $b;
 }
-console.log(multiply(234,181));
+echo (multiply(234,181));
 
 ?>
 
