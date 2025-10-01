@@ -1,5 +1,5 @@
 <?php
 
-//vgl. variable definieren
-// v
+//variable definieren
+// javascript: letname 
 $name="Wolfgang;"
