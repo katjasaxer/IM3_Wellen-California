@@ -65,6 +65,4 @@ foreach ($standorte as $ort => $temperatur) {
 echo $temperatur . '/' . $ort . '<br>'; 
 }
 
-
-
 ?>

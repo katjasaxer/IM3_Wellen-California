@@ -68,3 +68,5 @@ echo $temperatur . '/' . $ort . '<br>';
 
 
 ?>
+
+<P>  </p>
