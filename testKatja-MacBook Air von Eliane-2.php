@@ -56,7 +56,7 @@ $standorte = [
     'bern' => -1
 ];
 
-//WICHTIG!!!!!!!!!!! zum testen
+//WICHTIG
 /*echo '<pre>';
 print_r($standorte[bern]); 
 echo '</pre>'; */
