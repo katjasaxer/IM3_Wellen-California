@@ -12,10 +12,8 @@ $b = 22;
 echo $a + $b;
 
 //-> funktionen
-function multiply(a, b)   {
-return a * b;
-}
-console.log(multiply(234,181));
+function multiply
+
 
 ?>
 
