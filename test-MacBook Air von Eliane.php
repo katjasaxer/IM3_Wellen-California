@@ -1,5 +1,5 @@
 <?php
 
 //variable definieren
-// javascript: let name  = "wolfgang"
+// javascript: letname 
 $name="Wolfgang;"
