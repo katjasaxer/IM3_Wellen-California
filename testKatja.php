@@ -19,5 +19,18 @@ return $a * $b;
 }
 echo (multiply(234,181));
 
+echo '<br>';
+
+//-> bedingungen
+//note muss 4 oder grösser sein
+$note = 3.75;
+if($note >= 4) {
+    echo "du hesch bestande";
+} else if ($note < 4 && $note >= 3.5) {
+    echo "nachprüfung möglich";
+} else {
+    echo "usekeit";
+}
+
 ?>
 
