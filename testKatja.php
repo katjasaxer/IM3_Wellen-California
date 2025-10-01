@@ -2,5 +2,5 @@
 
 //variable definieren
 // javascript: let name  = "wolfgang"
-$name="Wolfgang;"
+$name="Wolfgang";
 echo $name;
